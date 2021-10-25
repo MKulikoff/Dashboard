@@ -155,6 +155,7 @@ body {
     border-radius: 20px; 
     position: relative; 
     bottom: -3px;
+    cursor: pointer;
 }
 
 .tracking-card__header, .tracking-card__body { 
@@ -167,6 +168,7 @@ body {
 .tracking-card__menu {
     cursor: pointer; 
 }
+
 
 .tracking-card__title { 
     font-weight: var(--regular_font);
@@ -187,6 +189,10 @@ body {
 
 .dashboard__item:hover .tracking-card {
     background-color: var(--desatureted_blue);
+}
+
+.attribution {
+    padding: 1rem;
 }
 
 @media (min-width: 1024px) {
