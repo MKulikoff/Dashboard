@@ -10,8 +10,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./https://sun9-10.userapi.com/impg/9MC7PkB3oxlGg07FlFiBBWUjzOUQ_cTJHI_FVQ/swwa2-Vc704.jpg?size=1900x994&quality=96&sign=09a34b2061f229162222e71f933ebb5f&type=album
-- Live Site URL: (https://your-live-site-url.com)
+<img src="https://sun9-10.userapi.com/impg/9MC7PkB3oxlGg07FlFiBBWUjzOUQ_cTJHI_FVQ/swwa2-Vc704.jpg?size=1900x994&quality=96&sign=09a34b2061f229162222e71f933ebb5f&type=album" alt="drawing"/>
+
+### Live Site URL
+(https://your-live-site-url.com)
 
 ### Built with
 
